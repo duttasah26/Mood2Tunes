@@ -2,10 +2,10 @@
 
 > **Note:** The Mood2Tunes web application is currently under maintenance as it awaits approval from the Spotify team to extend its API quota. Thank you for your patience.
 
-![u1](https://github.com/duttasah26/Mood2Tunes/blob/main/mainUI#1.jpg)
-![ui2](https://github.com/duttasah26/Mood2Tunes/blob/main/mainUI#2.jpg)
-
 Mood2Tunes is a web application designed to provide users with personalized music recommendations based on their mood. Built using modern technologies and hosted on AWS, it delivers a seamless user experience while leveraging the Spotify API for music recommendations.
+
+![u1](https://github.com/duttasah26/Mood2Tunes/blob/main/mainUI%231.jpg)
+![ui2](https://github.com/duttasah26/Mood2Tunes/blob/main/mainUI%232.jpg)
 
 ---
 
